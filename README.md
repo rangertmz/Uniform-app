@@ -65,11 +65,7 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 ## Lenguanje
 
 
-- [![Android][android-badge]][android-url] -The platform where the app will run
-- [![Android Studio][android-studio-badge]][android-studio-url] - The code editor where the application is programmed
-- [![Kotlin][kotlin-badge]][kotlin-url] - The programming language used
-- [![Material][material-badge]][material-url] - The style guide used for the UI/UX
-- [![XML][xml-badge]][xml-url] - UI components design language
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
 ## 🤝 Autores
