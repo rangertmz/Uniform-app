@@ -65,7 +65,7 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 ## Herramientas de Desarrollo
 
 - ![Static Badge](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&labelColor=gray) - Plataforma en la que se ejecuta la app
-- ![Static Badge](https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&labelColor=gray) - Herramienta de desarrollo movil
+- ![Static Badge](https://img.shields.io/badge/React--Native-cyan?style=for-the-badge&logo=react&labelColor=gray) - Herramienta de desarrollo movil
 - ![Static Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&labelColor=gray) - Lenguaje de programación
 
 ## 🤝 Autores
