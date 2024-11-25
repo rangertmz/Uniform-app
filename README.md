@@ -8,7 +8,7 @@ Esta es una aplicación que permite a los usuarios gestionar inventarios de unif
 
 ## Características
 
-- **Gestión de Inventarios**: Permite registrar, consultar uniformes por nivel educativo.
+- **Gestión de Inventarios**: Permite registrar y consultar uniformes por nivel educativo.
 - **Autenticación de Usuarios**: Los usuarios pueden iniciar sesión para acceder a la aplicación.
 - **Filtros y Búsquedas**: Facilita la búsqueda de uniformes por talla, género y más.
 - **Interfaz Intuitiva**: Diseñada para ser fácil de usar y accesible.
