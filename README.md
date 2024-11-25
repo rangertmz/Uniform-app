@@ -70,6 +70,8 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 
 ## 🤝 Autores
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+
 - [@Oswaldo](https://www.github.com/waldory01)
 - [@Samy](https://www.github.com/samychanrz)
 - [@Andres](https://www.github.com/rangertmz)
