@@ -62,8 +62,10 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 - **scripts**: Scripts útiles para el desarrollo.
 - **utils**: Funciones utilitarias.
 
+## Lenguanje
 
-
+- [![Android][android-badge]][android-url]
+- [![Typescript][typescript-badge][typescript-url]]
 
 ## 🤝 Autores
 
