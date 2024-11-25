@@ -64,7 +64,7 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 
 ## Lenguanje
 
-- [![Android][android-badge]][android-url] - Plataforma donde la app se ejecuta
+- ![[Android][android-badge]][android-url] - Plataforma donde la app se ejecuta
 - ![TypeScript](https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png) - Lenguaje de programación utilizado 
 
 ## 🤝 Autores
