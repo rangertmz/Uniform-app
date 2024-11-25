@@ -72,10 +72,10 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 
 ## Colaboradores
 
-## Colaboradores
 
-| [<img src="https://avatars.githubusercontent.com/u/123262370?v=4" width=115 style="border-radius: 50%;"><br><sub>Oswaldo Juarez</sub>](https://github.com/waldory01) | [<img src="https://avatars.githubusercontent.com/u/119755933?v=4" width=115 style="border-radius: 50%;"><br><sub>Andres Rangel</sub>](https://github.com/rangertmz) | [<img src="https://avatars.githubusercontent.com/u/132713784?v=4" width=115 style="border-radius: 50%;"><br><sub>Samy Chan</sub>](https://github.com/samychanrz) | [<img src="https://avatars.githubusercontent.com/u/133248383?v=4" width=115 style="border-radius: 50%;"><br><sub>Rodrigo Vazquez</sub>](https://github.com/rodrigoantonio118) | [<img src="https://avatars.githubusercontent.com/u/167589531?v=4" width=115 style="border-radius: 50%;"><br><sub>Guillermo Ramirez</sub>](https://github.com/guilloroot) |
+| <a href="https://github.com/waldory01"><img src="https://avatars.githubusercontent.com/u/123262370?v=4" width="115" style="border-radius: 50%; border: none;"><br><sub>Oswaldo Juarez</sub></a> | <a href="https://github.com/rangertmz"><img src="https://avatars.githubusercontent.com/u/119755933?v=4" width="115" style="border-radius: 50%; border: none;"><br><sub>Andres Rangel</sub></a> | <a href="https://github.com/samychanrz"><img src="https://avatars.githubusercontent.com/u/132713784?v=4" width="115" style="border-radius: 50%; border: none;"><br><sub>Samy Chan</sub></a> | <a href="https://github.com/rodrigoantonio118"><img src="https://avatars.githubusercontent.com/u/133248383?v=4" width="115" style="border-radius: 50%; border: none;"><br><sub>Rodrigo Vazquez</sub></a> | <a href="https://github.com/guilloroot"><img src="https://avatars.githubusercontent.com/u/167589531?v=4" width="115" style="border-radius: 50%; border: none;"><br><sub>Guillermo Ramirez</sub></a> |
 | :---: | :---: | :---: | :---: | :---: |
+
 
 
 - [@Oswaldo](https://www.github.com/waldory01)
