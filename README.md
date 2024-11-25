@@ -1,50 +1,66 @@
-# Welcome to your Expo app 👋
+# Uniform-app
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bienvenido a **Sistema de Gestion de Uniformes de la UMMA**, una aplicación desarrollada con Expo para gestionar uniformes escolares.
 
-## Get started
+## Descripción
 
-1. Install dependencies
+Esta es una aplicación que permite a los usuarios gestionar inventarios de uniformes escolares para diferentes niveles educativos, incluyendo primaria, secundaria, preparatoria, universidad, deportes y maestros. La aplicación está construida utilizando TypeScript.
 
-   ```bash
-   npm install
-   ```
+## Características
 
-2. Start the app
+- **Gestión de Inventarios**: Permite registrar, consultar uniformes por nivel educativo.
+- **Autenticación de Usuarios**: Los usuarios pueden iniciar sesión para acceder a la aplicación.
+- **Filtros y Búsquedas**: Facilita la búsqueda de uniformes por talla, género y más.
+- **Interfaz Intuitiva**: Diseñada para ser fácil de usar y accesible.
 
-   ```bash
+## Instalación
+
+Sigue estos pasos para configurar el proyecto localmente:
+
+1. Clona el repositorio:
+
+    ```bash
+    git clone https://github.com/rangertmz/Uniform-app.git
+    cd Uniform-app
+    ```
+
+2. Instala las dependencias:
+
+    ```bash
+    npm install
+    ```
+
+3. Inicia la aplicación:
+
+    ```bash
     npx expo start
-   ```
+    ```
 
-In the output, you'll find options to open the app in a
+## Uso
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un simulador de iOS o en Expo Go. Edita los archivos dentro del directorio `app` para comenzar a desarrollar.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Estructura del Proyecto
 
-## Get a fresh project
+- **app**: Contiene los archivos principales de la aplicación.
+- **assets**: Archivos de recursos como imágenes y fuentes.
+- **components**: Componentes reutilizables de React Native.
+- **constants**: Constantes utilizadas en la aplicación.
+- **hooks**: Hooks personalizados de React.
+- **requests**: Funciones para realizar solicitudes a la API.
+- **scripts**: Scripts útiles para el desarrollo.
+- **utils**: Funciones utilitarias.
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Licencia
 
-## Learn more
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-To learn more about developing your project with Expo, look at the following resources:
+## Contacto
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [GitHub](https://github.com/rangertmz).
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+¡Gracias por usar Uniform-app! 🎉
