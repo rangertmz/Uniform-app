@@ -64,8 +64,13 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 
 ## Lenguanje
 
-- ![[Android][android-badge]][android-url] - Plataforma donde la app se ejecuta
-- ![TypeScript](https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png) - Lenguaje de programación utilizado 
+
+- [![Android][android-badge]][android-url] -The platform where the app will run
+- [![Android Studio][android-studio-badge]][android-studio-url] - The code editor where the application is programmed
+- [![Kotlin][kotlin-badge]][kotlin-url] - The programming language used
+- [![Material][material-badge]][material-url] - The style guide used for the UI/UX
+- [![XML][xml-badge]][xml-url] - UI components design language
+
 
 ## 🤝 Autores
 
