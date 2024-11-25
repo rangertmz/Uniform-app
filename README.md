@@ -71,7 +71,7 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 ## 🤝 Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/119755933?v=4" width=115><br><sub>Andres Rangel</sub>](https://github.com/rangertmz) 
-|  [<img src="https://avatars.githubusercontent.com/u/119755933?v=4" width=115><br><sub>Oswaldo Juarez</sub>]([https://github.com/waldory01) 
+|  [<img src="https://avatars.githubusercontent.com/u/123262370?v=4" width=115><br><sub>Oswaldo Juarez</sub>]([https://github.com/waldory01) 
 |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
 | :---: | :---: | :---: |
 
