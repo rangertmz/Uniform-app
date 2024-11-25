@@ -70,10 +70,12 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 
 ## 🤝 Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/119755933?v=4" width=115><br><sub>Andres Rangel</sub>](https://github.com/rangertmz) 
-|  [<img src="https://avatars.githubusercontent.com/u/123262370?v=4" width=115><br><sub>Oswaldo Juarez</sub>]([https://github.com/waldory01) 
-|  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
+## Colaboradores
+
+| [<img src="https://avatars.githubusercontent.com/u/123262370?v=4" width=115><br><sub>Oswaldo Juarez</sub>](https://github.com/waldory01) | [<img src="https://avatars.githubusercontent.com/u/119755933?v=4" width=115><br><sub>Andres Rangel</sub>](https://github.com/rangertmz) | [<img src="https://avatars.githubusercontent.com/u/132713784?v=4" width=115><br><sub>Samy Chan</sub>](https://github.com/samychanrz) |
 | :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/133248383?v=4" width=115><br><sub>Rodrigo Vazquez</sub>](https://github.com/rodrigoantonio118) | [<img src="https://avatars.githubusercontent.com/u/167589531?v=4" width=115><br><sub>Guillermo Ramirez</sub>](https://github.com/guilloroot) |
+
 
 - [@Oswaldo](https://www.github.com/waldory01)
 - [@Samy](https://www.github.com/samychanrz)
