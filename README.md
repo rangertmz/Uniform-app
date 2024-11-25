@@ -64,8 +64,9 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 
 ## Herramientas de Desarrollo
 
-![Static Badge](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&labelColor=white)
-![Static Badge](https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&labelColor=gray)
 
 
 
