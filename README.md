@@ -62,9 +62,11 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 - **scripts**: Scripts útiles para el desarrollo.
 - **utils**: Funciones utilitarias.
 
-## Lenguanje
+## Herramientas de Desarrollo
 
-![Static Badge](https://img.shields.io/badge/Android-gray?logo=android)
+![Static Badge](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&labelColor=white)
+![Static Badge](https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&labelColor=white)
+
 
 
 
