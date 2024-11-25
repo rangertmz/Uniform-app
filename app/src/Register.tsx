@@ -16,11 +16,11 @@ import {
   TextInput,
 } from "react-native-paper";
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import {verifyLogin} from '../../requests/database'
+import {registerUser, verifyLogin} from '../../requests/database'
 
 // create a component
 
-const Login = ({ navigation, setUser }: any) => {
+const Register = ({ navigation }: any) => {
   const styles = StyleSheet.create({
     container: {
       backgroundColor: "#0045A4",
@@ -92,12 +92,8 @@ const Login = ({ navigation, setUser }: any) => {
     }
     try {
       
-      const result = await verifyLogin(username, password)
-      await AsyncStorage.setItem("user", username);
-      await AsyncStorage.setItem("token", result.token)
+      await registerUser(username, password)
       
-      
-      setUser(username)
       
       setTimeout(() => {
         setIsLoading(false);
@@ -106,7 +102,7 @@ const Login = ({ navigation, setUser }: any) => {
         setIsSuccess(true);
       }, 900);
       setTimeout(() => {
-        navigation.navigate("tab");
+        navigation.navigate("Login");
         setIsSuccess(false);
         setUsername("")
       setPassword("")
@@ -114,24 +110,17 @@ const Login = ({ navigation, setUser }: any) => {
     } catch (e:any) {
       console.log(e)
       
-      if(e.message === 'Usuario no encontrado'){
+      if(e.message === 'Nombre de usuario ya existe'){
         setIsErrorName(true)
         setErrorName(e.message)
       }
-      if(e.message === 'Contraseña incorrecta'){
-        setIsErrorPassword(true)
-        setErrorPassword(e.message)
-      }
+     
       
       setDisabled(false);
       setIsLoading(false);
     }
   };
-  const handleRegister= ()=>{
-    navigation.navigate("Register")
-    setPassword("")
-    setUsername("")
-  }
+  
 
   return (
     <KeyboardAvoidingView style={styles.container} behavior='padding'>
@@ -155,8 +144,8 @@ const Login = ({ navigation, setUser }: any) => {
               }}
             />
             <Text style={styles.welcomeText}>Bienvenido!</Text>
-            <Text style={styles.text}>Inicie sesión para acceder a la</Text>
-            <Text style={styles.text}>app de administración</Text>
+            <Text style={styles.text}>Este apartado es solo de prueba para la app</Text>
+            
           </View>
           <TextInput
             textColor='#fff'
@@ -225,16 +214,7 @@ const Login = ({ navigation, setUser }: any) => {
               {errorPassword}
             </HelperText>
           )}
-          <Text style={{
-            color: '#fff',
-            fontSize: 15,
-            marginTop: 10,
-            textAlign: 'center',
-          }}
-          onPress={handleRegister}
-          >
-            Registrarse
-          </Text>
+          
           <Button
             style={styles.btn}
             mode='contained'
@@ -246,7 +226,7 @@ const Login = ({ navigation, setUser }: any) => {
             ) : isSuccess ? (
               <Icon source='check' color='#fff' size={20} />
             ) : (
-              <Text>Iniciar Sesión</Text>
+              <Text>Registrarse</Text>
             )}
           </Button>
           
@@ -259,4 +239,4 @@ const Login = ({ navigation, setUser }: any) => {
 // define your styles
 
 //make this component available to the app
-export default Login;
+export default Register;
