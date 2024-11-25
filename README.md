@@ -2,9 +2,11 @@
     
 ## Uniform-app 
 
-</div>
 
 Bienvenido a **Sistema de Gestion de Uniformes de la UMMA**, una aplicación desarrollada con Expo para gestionar uniformes escolares.
+
+
+</div>
 
 ## Descripción
 
@@ -17,7 +19,7 @@ Esta es una aplicación que permite a los usuarios gestionar inventarios de unif
 - **Filtros y Búsquedas**: Facilita la búsqueda de uniformes por talla, género y más.
 - **Interfaz Intuitiva**: Diseñada para ser fácil de usar y accesible.
 
-## Instalación
+## ▶️ Instalación
 
 Sigue estos pasos para configurar el proyecto localmente:
 
@@ -57,11 +59,8 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 
 
 
-## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Autores
+## 🤝 Autores
 
 - [@Oswaldo](https://www.github.com/waldory01)
 - [@Samy](https://www.github.com/samychanrz)
