@@ -1,4 +1,4 @@
-<center># Uniform-app </center>
+# <center> Uniform-app </center>
 
 Bienvenido a **Sistema de Gestion de Uniformes de la UMMA**, una aplicación desarrollada con Expo para gestionar uniformes escolares.
 
