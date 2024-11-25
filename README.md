@@ -64,7 +64,7 @@ Después de iniciar la aplicación, puedes abrirla en un emulador de Android, un
 
 ## Lenguanje
 
-- [![Android][android-badge]][android-url]
+- [![Android][android-badge]][android-url] -Plataforma donde la app se ejecuta
 - [![Typescript][typescript-badge][typescript-url]]
 
 ## 🤝 Autores
